@@ -3,7 +3,7 @@
 💻 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
 📈 My GitHub Stats:
-Stats are a bit scuffed because most of the activity happened on gitlab and data can't be totally retrieved
+Stats are incomplete because most of the activity happened on gitlab and data can't be retrieved.
 
 <div >
   <img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Nogueira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&border_radius=1em" /> 
