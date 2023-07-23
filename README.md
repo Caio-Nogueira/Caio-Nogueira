@@ -1,6 +1,6 @@
 ### Hi there, I'm Caio Nogueira &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Caio-Nogueira.Caio-Nogueira)
 
-💻 The stats shown may be incomplete, as some of my projects are also hosted in Gitlab. If you want to know more about me, feel free to message me on my LinkedIn ![](https://www.linkedin.com/in/caiomnogueira/).
+💻 The stats shown may be incomplete, as some of my projects are also hosted in Gitlab. If you want to know more about me, feel free to message me on my LinkedIn [](https://www.linkedin.com/in/caiomnogueira/).
 
 📈 My GitHub Stats: 
 
